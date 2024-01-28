@@ -32,7 +32,7 @@
       <visual>
         <origin rpy="1.57 0 0" xyz="-0.6 0.5 0"/>
         <geometry>
-          <mesh filename="package://my_robot_description/meshes/basic_plane.STL" scale="0.01 0.01 0.01"/> 
+          <mesh filename="package://my_robot_description/meshes/basic_plane_2.STL" scale="0.01 0.01 0.01"/> 
         </geometry>
         <material name="weird"/>
       </visual>
